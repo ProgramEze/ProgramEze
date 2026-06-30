@@ -1,61 +1,136 @@
-# Incubadora — Preguntas Abiertas
+# Preguntas Abiertas
 
-> Estado: Abierto
-
-Este documento reúne preguntas
-que ProgramEze todavía no sabe responder.
-
-No buscamos responderlas rápidamente.
-
-Buscamos impedir que desaparezcan.
+> **Documento vivo**
+>
+> Este documento conserva aquellas preguntas que el laboratorio considera importantes pero que, hasta el momento, todavía no poseen suficiente evidencia para ser respondidas.
+>
+> ProgramEze considera que proteger las buenas preguntas es tan importante como conservar los aprendizajes.
 
 ---
 
-# Sobre el criterio docente
+# Propósito
 
-- ¿El criterio observado pertenece solamente a Ezequiel?
-- ¿Otros docentes auditan de manera similar?
-- ¿Qué partes del criterio son universales y cuáles personales?
+No toda pregunta necesita una respuesta inmediata.
 
----
+Algunas necesitan tiempo.
 
-# Sobre el Modo Auditor
+Otras necesitan nuevos experimentos.
 
-- ¿Qué activa realmente el modo auditor?
-- ¿Puede entrenarse?
-- ¿Puede perderse?
-- ¿Existe un límite de sensibilidad?
-- ¿Puede producir falsos positivos?
+Y algunas, incluso, podrían permanecer abiertas durante mucho tiempo.
+
+Este documento existe para evitar que esas preguntas se pierdan mientras el laboratorio continúa evolucionando.
 
 ---
 
-# Sobre las presentaciones
+# Qué tipo de preguntas viven aquí
 
-- ¿Puede existir una presentación con cero observaciones?
-- ¿Cómo distinguir entre una clase realmente buena y una clase simplemente conocida por el auditor?
-- ¿Qué hace que un recorrido resulte natural?
+Este documento no almacena dudas operativas.
 
----
+Tampoco registra tareas pendientes.
 
-# Sobre TutoriaMaterial
-
-- ¿Qué parte del trabajo docente podrá automatizarse sin perder criterio?
-- ¿Qué parte nunca debería automatizarse?
-- ¿Cómo colaborar con el docente sin reemplazarlo?
+Aquí solo permanecen preguntas que podrían modificar la comprensión del laboratorio si algún día encontraran respuesta.
 
 ---
 
-# Sobre ProgramEze
+# Estado actual
 
-- ¿Cuándo una idea deja de pertenecer a la Incubadora?
-- ¿Cuánta evidencia necesitamos antes de convertir una idea en Método?
-- ¿Cómo evitaremos institucionalizar intuiciones demasiado pronto?
+## Metodología
+
+### ¿Cómo reconocer que un rol realmente emergió?
+
+¿En qué momento una función deja de ser una coincidencia entre participantes y comienza a formar parte del organismo?
 
 ---
 
-# Pregunta Fundacional Permanente
+### ¿Cómo distinguir una intuición fértil de una intuición simplemente atractiva?
 
-¿Cómo sabemos que estamos comprendiendo mejor el fenómeno
-y no simplemente construyendo una explicación cada vez más elegante?
+¿Qué evidencia debería aparecer antes de convertir una idea incubada en un principio metodológico?
 
-Esta pregunta nunca debería abandonarnos.
+---
+
+### ¿Cómo detectar que el modo auditor está produciendo ruido y no evidencia?
+
+¿Existe un punto donde el entrenamiento del observador comienza a generar falsos positivos?
+
+¿Cómo podría medirse?
+
+---
+
+### ¿Cómo falsar nuestros propios aprendizajes?
+
+¿Qué tipo de experimentos deberían diseñarse deliberadamente para intentar romper aquello que hoy creemos comprender?
+
+---
+
+## Pedagogía
+
+### ¿Qué hace que un recorrido pedagógico resulte verdaderamente natural?
+
+¿Existe una estructura común detrás de las clases que generan menor fricción para el alumno?
+
+---
+
+### ¿Qué papel cumple la narrativa dentro del aprendizaje?
+
+¿Es un recurso útil?
+
+¿O constituye una necesidad para determinados perfiles de estudiantes?
+
+---
+
+### ¿Hasta qué punto es posible modelar la experiencia futura del alumno?
+
+¿Dónde termina una anticipación razonable y comienza la especulación?
+
+---
+
+## El laboratorio
+
+### ¿Qué cambios sufrirá ProgramEze cuando participen nuevos investigadores?
+
+¿Los roles actuales seguirán emergiendo?
+
+¿Aparecerán otros?
+
+---
+
+### ¿Qué partes del método son verdaderamente transferibles?
+
+¿Otro docente observaría fenómenos similares utilizando el mismo instrumento?
+
+---
+
+### ¿Cómo reconocer que el laboratorio necesita cambiar su propio método?
+
+¿Existe alguna señal que indique que el método dejó de acompañar correctamente al organismo?
+
+---
+
+# Cómo utilizar este documento
+
+Una pregunta puede salir de este documento únicamente de dos maneras:
+
+- porque fue respondida mediante suficiente evidencia;
+- porque dejó de tener sentido para el laboratorio.
+
+Mientras ninguna de esas dos situaciones ocurra, la pregunta continúa viva.
+
+---
+
+# Principio fundamental
+
+ProgramEze no considera las preguntas abiertas como una carencia.
+
+Las considera una reserva de futuro.
+
+Cada pregunta protegida representa una posible dirección hacia la cual el laboratorio todavía puede crecer.
+
+---
+
+# Estado del documento
+
+Este documento permanecerá en actualización permanente.
+
+Su valor no depende de la cantidad de preguntas que contenga.
+
+Depende de la calidad de aquellas preguntas que el laboratorio decida conservar vivas.
