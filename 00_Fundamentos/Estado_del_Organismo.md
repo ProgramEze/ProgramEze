@@ -143,13 +143,11 @@ Recién entonces debería continuarse el trabajo del laboratorio.
 # Última actualización
 
 Fecha:
-
----
+2026-06-30
 
 Motivo:
-
----
+Consolidación del método e instrumentación.
+Cierre de la infancia del laboratorio.
 
 Responsable:
-
----
+Consejo Fundacional.

@@ -94,6 +94,22 @@ Aquí solo permanecen preguntas que podrían modificar la comprensión del labor
 
 ---
 
+## TutoriaMaterial
+
+### ¿Qué influye más en la experiencia de Zoe?
+
+Los experimentos realizados hasta el momento muestran una tensión todavía no resuelta.
+
+¿Influye más la cantidad total de diapositivas de una clase?
+
+¿O la densidad cognitiva de cada diapositiva?
+
+La evidencia actual todavía no permite responder si ambas variables son independientes o si existe una combinación óptima entre ellas.
+
+Esta pregunta permanecerá abierta hasta que nuevos experimentos aporten evidencia suficiente.
+
+---
+
 ### ¿Qué partes del método son verdaderamente transferibles?
 
 ¿Otro docente observaría fenómenos similares utilizando el mismo instrumento?

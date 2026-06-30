@@ -1,6 +1,6 @@
 # Plantilla de Experimento
 
-> Estado: Instrumento metodológico
+> **Estado:** Instrumento metodológico
 >
 > Esta plantilla no representa un experimento ejecutado.
 > Representa el instrumento que ProgramEze utiliza para diseñar, registrar y analizar experimentos.
@@ -18,7 +18,7 @@ Esta plantilla se completa en tres momentos distintos.
 
 ## Antes de abrir el material
 
-Completar las secciones 1 a 6.
+Completar las secciones **1 a 6**.
 
 ## Durante la observación
 
@@ -30,7 +30,7 @@ Solo observarlo.
 
 ## Después de terminar la observación
 
-Completar las secciones 8 a 11.
+Completar las secciones **8 a 11**.
 
 Las explicaciones y aprendizajes surgirán posteriormente durante el Consejo.
 
@@ -40,7 +40,7 @@ Las explicaciones y aprendizajes surgirán posteriormente durante el Consejo.
 
 ## Nombre
 
-Experimento Nº**\_ — ********\_\_\_\_**********
+Experimento Nº **\_ — ******\_\_\_\_********
 
 ## Fecha
 
@@ -58,21 +58,19 @@ Experimento Nº**\_ — ********\_\_\_\_**********
 
 ---
 
----
-
 # 2. Pregunta de investigación
 
-¿Qué queremos observar?
+**¿Qué queremos observar?**
 
-> ---
+>
 
 ---
 
 # 3. Hipótesis provisional
 
-¿Qué creemos que podría ocurrir?
+**¿Qué creemos que podría ocurrir?**
 
-> ---
+>
 
 La hipótesis existe para ser puesta en tensión, no para ser defendida.
 
@@ -84,11 +82,13 @@ Antes de abrir el material registrar únicamente aquello que protege la falsabil
 
 ## ¿Qué resultado me sorprendería?
 
----
-
-## Condición que podría debilitar mi hipótesis
+>
 
 ---
+
+## ¿Qué condición podría debilitar mi hipótesis?
+
+>
 
 ---
 
@@ -105,6 +105,8 @@ Fuente:
 Versión:
 
 Fecha:
+
+---
 
 ## Contexto del observador
 
@@ -139,17 +141,19 @@ Duplicar este bloque una vez por cada ⚑.
 
 ---
 
-## ⚑ Observación Nº\_\_\_
+## ⚑ Observación Nº \_\_\_
 
 ### ¿Qué ocurrió?
 
 Describir únicamente el hecho observable.
 
+>
+
 ---
 
 ### ¿En qué instante apareció el "Mmm..."?
 
----
+>
 
 ---
 
@@ -165,13 +169,13 @@ Describir únicamente el hecho observable.
 
 ### ¿Qué experiencia futura del alumno estoy intentando proteger?
 
----
+>
 
 ---
 
 ### ¿Qué imaginé que iba a pasar?
 
----
+>
 
 ---
 
@@ -206,11 +210,17 @@ Describir únicamente el hecho observable.
 
 ---
 
+### Explicación rival específica (opcional)
+
+Completar únicamente si esta observación requiere una explicación rival distinta de las generales del experimento.
+
+>
+
+---
+
 # 8. Explicaciones rivales
 
 Esta sección analiza el experimento completo.
-
-Si alguna observación requiere una explicación rival específica, registrarla dentro de la propia observación.
 
 ¿Qué explicaciones alternativas podrían existir para los fenómenos observados?
 
@@ -221,37 +231,59 @@ Si alguna observación requiere una explicación rival específica, registrarla 
 - [ ] Parte de las observaciones podrían ser ruido del instrumento.
 - [ ] Otra:
 
-Observaciones:
+### Observaciones
 
----
+>
 
 ---
 
 # 9. Cierre del experimento
 
-## Hoy observé que...
+## Reflexión sobre la observación
+
+### Hoy observé que...
+
+>
 
 ---
 
-## Hoy me sorprendió que...
+### Hoy me sorprendió que...
+
+>
 
 ---
 
-## Algo que todavía no sé explicar...
+### Algo que todavía no sé explicar...
+
+>
 
 ---
 
-## Algo que merece llevarse a la Fogata...
+### Algo que merece llevarse a la Fogata...
+
+>
 
 ---
+
+## Reflexión sobre el instrumento
+
+### ¿Durante esta sesión apareció alguna duda acerca del instrumento o de mi forma de observar?
+
+>
+
+---
+
+### ¿Existe alguna observación metodológica que convenga llevar posteriormente a la Fogata?
+
+>
 
 ---
 
 # 10. Pregunta para la Fogata
 
-¿Qué necesita discutir el Consejo antes de convertir esta experiencia en un aprendizaje?
+**¿Qué necesita discutir el Consejo antes de convertir esta experiencia en un aprendizaje?**
 
----
+>
 
 ---
 
